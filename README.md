@@ -1,2 +1,5 @@
-# tableau_
- 
+# tableau
+
+prerequisite:
+
+tableau desktop
